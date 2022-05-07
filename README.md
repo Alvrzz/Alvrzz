@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/Alvrzz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alvrzz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvrzz&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvrzz&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
  
  <div style="display: inline_block"><br>
@@ -18,10 +18,9 @@ src="https://scontent.fxap5-1.fna.fbcdn.net/v/t39.30808-6/271673064_964551074473
 </div>
   
   ##
-  
-  <div> 
+ <div> 
   <a href="https://www.instagram.com/alvrz_luann/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alvarezluan.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luan-alvarez-1499a7224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  ##
+  
