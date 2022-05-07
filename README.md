@@ -15,7 +15,7 @@ Prazer, eu sou o Luan Alvarez, estudante de programação e tecnologia.
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+  <img align="right" height="110" style="border-radius:50px;" 
 src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif?cid=ecf05e473s1tu2ruqkuj84hcunvjbk07ngu9kfkmobu4q5di&rid=giphy.gif&ct=g">
 </div>
 </div>
