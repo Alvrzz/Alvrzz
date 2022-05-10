@@ -17,8 +17,8 @@ Prazer ✌, eu sou o Luan Alvarez, estudante de programação e tecnologia.👨�
   
   <img align="right" height="110" style="border-radius:50px;" 
 src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif?cid=ecf05e473s1tu2ruqkuj84hcunvjbk07ngu9kfkmobu4q5di&rid=giphy.gif&ct=g">
-</div>
-</div>
+ </div>
+
   
   ##
  <div> 
@@ -41,10 +41,12 @@ src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif?cid=ecf05e473s1t
 
  </div>
  
- <div>
- <center>
-  <img align="center" height="100" src="https://i.imgur.com/fq7RVBe.gif">
+ <div align="center">
+  
+  <img height="110" style="border-radius:50px;" 
+src="https://i.imgur.com/fq7RVBe.gif">
 
- </center>
-</div>
+
+ 
+  </div>
   
