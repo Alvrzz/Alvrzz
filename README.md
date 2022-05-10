@@ -40,4 +40,11 @@ src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif?cid=ecf05e473s1t
 - Tenho facilidade para aprender e assimilar novos conceitos. Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes. :heavy_check_mark:
 
  </div>
+ 
+ <div>
+ <center>
+  <img align="center" height="100" src="https://i.imgur.com/fq7RVBe.gif">
+
+ </center>
+</div>
   
