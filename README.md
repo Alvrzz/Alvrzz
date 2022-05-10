@@ -1,6 +1,10 @@
+##
 <h3 align="center">
    Prazer ✌, eu sou o Luan Alvarez, estudante de programação e tecnologia.👨‍💻
 </h3>
+
+##
+
 <div align="center">
    <a href="https://github.com/Alvrzz">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alvrzz&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
@@ -32,6 +36,9 @@
    - Atualmente, estou procurando oportunidades que me permitam incorporar o meu conhecimento visando aprendizagem.
  
    - Tenho facilidade para aprender e assimilar novos conceitos. Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes. :heavy_check_mark:
+   
+##
+   
 </div>
 <div align="center">
    <img height="110" style="border-radius:50px;" 
