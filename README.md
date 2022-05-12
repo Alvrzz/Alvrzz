@@ -16,6 +16,7 @@
 <img  alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img alt="Luan-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <img alt="Luan-jupy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+<img alt="Luan-panda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="right" height="110" style="border-radius:50px;" 
    src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif?cid=ecf05e473s1tu2ruqkuj84hcunvjbk07ngu9kfkmobu4q5di&rid=giphy.gif&ct=g">
 </div>
