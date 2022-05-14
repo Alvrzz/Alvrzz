@@ -18,7 +18,7 @@
 <img alt="Luan-jupy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
 <img alt="Luan-panda" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="right" height="110" style="border-radius:50px;" 
-   src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif?cid=ecf05e473s1tu2ruqkuj84hcunvjbk07ngu9kfkmobu4q5di&rid=giphy.gif&ct=g">
+src="https://media3.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif?cid=ecf05e473s1tu2ruqkuj84hcunvjbk07ngu9kfkmobu4q5di&rid=giphy.gif&ct=g">
 </div>
  
 ##
