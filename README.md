@@ -29,6 +29,19 @@
 <a href="https://www.linkedin.com/in/luan-alvarez-1499a7224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
    
+
+<div>
+ <h3>
+    🚧Projetos:   
+ </h3>   
+
+ <a href = "https://github.com/Alvrzz/Repositorio-de-estudos-pessoais-Entra21"><h4>Repositorio de estudos pessoais Entra21</h4></a>
+</div>
+
+
+##
+
+
 <div>
    <h3> Sobre mim: 
    </h3>
@@ -40,6 +53,7 @@
    - Atualmente, estou procurando oportunidades que me permitam incorporar o meu conhecimento visando aprendizagem.
  
    - Tenho facilidade para aprender e assimilar novos conceitos. Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes. :heavy_check_mark:
+ </div> 
    
 ##
    
