@@ -59,6 +59,5 @@
    
 </div>
 <div align="center">
-   <img height="110" style="border-radius:50px;" 
-      src="https://i.imgur.com/fq7RVBe.gif">
+     ![Snake animation](https://github.com/Alvrzz/Alvrzz/blob/output/github-contribution-grid-snake.svg)
 </div>
