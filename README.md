@@ -32,10 +32,10 @@
 
 <div>
  <h3>
-    🚧Projetos:   
+    🚧Projetos: 
  </h3>   
 
- <a href = "https://github.com/Alvrzz/Repositorio-de-estudos-pessoais-Entra21"><h4>Repositorio de estudos pessoais Entra21</h4></a>
+ <a href = "https://github.com/Alvrzz/Repositorio-de-estudos-pessoais-Entra21"><h4>Entra21</h4></a>
 </div>
 
 
@@ -58,9 +58,7 @@
 ##
    
 </div>
-
-
-
-
-![Snake animation](https://github.com/Alvrzz/Alvrzz/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+   <img height="110" style="border-radius:50px;" 
+      src="https://i.imgur.com/fq7RVBe.gif">
+</div>
