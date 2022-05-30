@@ -30,7 +30,7 @@
 </div>
    
 
-<div>
+<div align="center">
  <h3>
     🚧Projetos: 
  </h3>   
