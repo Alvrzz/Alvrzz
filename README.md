@@ -31,10 +31,7 @@
 </div>
    
 
-<div align="center">
- <h3>
-    🚧Projetos: 
- </h3>   
+
 
  <a href = "https://github.com/Alvrzz/Repositorio-de-estudos-pessoais-Entra21"><h4>Entra21</h4></a>
 </div>
