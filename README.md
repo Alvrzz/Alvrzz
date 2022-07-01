@@ -1,6 +1,6 @@
 ##
 <h3 align="center">
-   Prazer ✌, eu sou o Luan Alvarez, estudante de programação e tecnologia.👨‍💻
+   Prazer ✌, eu sou o Luan Alvarez, estudante de analise de dados e tecnologia.👨‍💻
 </h3>
 
 ##
