@@ -33,7 +33,7 @@
 ##
 
 
-<div>
+<div align="left">
    <h3> Sobre mim: 
    </h3>
  
