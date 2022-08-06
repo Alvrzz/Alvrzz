@@ -37,13 +37,12 @@
    <h3> Sobre mim: 
    </h3>
  
-   - Meu nome é Luan Oliveira Alvarez, tenho 19 anos. 
- 
-   - Sou um estudante buscando aumentar gradualmente formas de conhecimento envolvendo a tecnologia e informação. 
- 
-   - Atualmente, estou procurando oportunidades que me permitam incorporar o meu conhecimento visando aprendizagem.
- 
-   - Tenho facilidade para aprender e assimilar novos conceitos. Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes. :heavy_check_mark:
+   - Analista de dados em formação pelo Google Career Certificates e Entra21 - Blusoft.
+   Estou constantemente buscando conhecimento envolvendo a tecnologia e informação. 
+
+  - Procuro oportunidades que permitam incorporar o meu conhecimento visando aprendizagem na área de Análise de Dados. 
+
+  - Tenho facilidade para aprender e assimilar novos conceitos. Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes.:heavy_check_mark:
  </div> 
    
 ##
