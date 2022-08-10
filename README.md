@@ -37,12 +37,13 @@
    <h3> Sobre mim: 
    </h3>
  
-   - Analista de dados em formação pelo Google Career Certificates e Entra21 - Blusoft.
-   Estou constantemente buscando conhecimento envolvendo a tecnologia e informação. 
+- Analista de dados em formação pelo Google Career Certificates e Entra21 - Blusoft.
 
-  - Procuro oportunidades que permitam incorporar o meu conhecimento visando aprendizagem na área de Análise de Dados. 
+- Me considero uma pessoa muito curiosa por isso estou constantemente buscando conhecimento envolvendo a tecnologia e informação. 
 
-  - Tenho facilidade para aprender e assimilar novos conceitos. Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes.:heavy_check_mark:
+- Tenho facilidade para aprender e assimilar novos conceitos. Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes.
+
+- Procuro oportunidades que permitam incorporar o meu conhecimento visando aprendizagem na área de Análise de Dados.relevantes.:heavy_check_mark:
  </div> 
    
 ##
