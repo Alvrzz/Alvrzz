@@ -43,7 +43,7 @@
 
 - Tenho facilidade para aprender e assimilar novos conceitos. Gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes.
 
-- Procuro oportunidades que permitam incorporar o meu conhecimento visando aprendizagem na área de Análise de Dados.relevantes.:heavy_check_mark:
+- Procuro oportunidades que permitam incorporar o meu conhecimento visando aprendizagem na área de Análise de Dados :heavy_check_mark:
  </div> 
    
 ##
