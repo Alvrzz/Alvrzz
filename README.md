@@ -33,8 +33,8 @@
 ##
 
 
-<div align="left">
-   <h3> Projetos: 
+<div align="center">
+   <h3> Projetos 
    </h3>
    
    <a href="https://github.com/Alvrzz/Analise-da-Perfomance-de-Estudantes">Analise - perfomance de estudantes com python</a>   
