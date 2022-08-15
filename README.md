@@ -37,7 +37,7 @@
    <h3> Projetos 
    </h3>
    
-   <a href="https://github.com/Alvrzz/Analise-da-Perfomance-de-Estudantes">Analise - performance de estudantes com python</a>   
+   <a href="https://github.com/Alvrzz/Analise-da-Perfomance-de-Estudantes">Analise - performance de estudantes! Com python</a>   
    <a href="https://github.com/Alvrzz/Reconhecimento-facial-com-python"> Python - Reconhecimento Facial </a>   
    <a href="https://github.com/Alvrzz/Primeiro-projeto-de-Automacao-Web-e-webscraping-com-Python"> Selenium Automacao Web e webscraping com Python </a>   
    <a href="https://github.com/Alvrzz/Repositorio-de-estudos-pessoais-Entra21">Entra21 - Repositório de estudos pessoais</a>
