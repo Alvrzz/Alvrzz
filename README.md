@@ -64,6 +64,6 @@
    
 </div>
 <div align="center">
-   <img height="100" style="border-radius:50px;" 
+   <img height="150px" style="border-radius:50px;" 
       src="https://i.imgur.com/fq7RVBe.gif">
 </div>
