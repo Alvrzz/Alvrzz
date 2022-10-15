@@ -70,5 +70,5 @@
 </div>
 <div align="center">
    <img height="150px" style="border-radius:50px;" 
-      src="https://i.imgur.com/fq7RVBe.gif">
+      src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47srcbpy0ehgzyysh6yuive0l0dnz9shjcqlvix5c1&rid=giphy.gif&ct=g">
 </div>
