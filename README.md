@@ -57,7 +57,7 @@
    <h3> Sobre mim: 
    </h3>
  
-- Analista de dados certificado pelo Google Career Certificates e Entra21 - Blusoft. - Blusoft.
+- Analista de dados certificado pelo Google Career Certificates e Proway.
 
 - Me considero uma pessoa muito curiosa por isso estou constantemente buscando conhecimento envolvendo a tecnologia e informação. 
 
