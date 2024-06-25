@@ -38,26 +38,26 @@
 ##
 
 <div align="center">
-   <h3>Projetos</h3>
+   <h3>📂 Projetos</h3>
    
    <p>
-      <a href="https://github.com/Alvrzz/Datapark">Projeto - DataPark</a><br>
-      <a href="https://github.com/Alvrzz/Analise-da-Perfomance-de-Estudantes">Analise - performance de estudantes</a><br>
-      <a href="https://github.com/Alvrzz/Reconhecimento-facial-com-python">Python - Reconhecimento Facial</a><br>
-      <a href="https://github.com/Alvrzz/Primeiro-projeto-de-Automacao-Web-e-webscraping-com-Python">Selenium Automação Web e Webscraping com Python</a><br>
-      <a href="https://github.com/Alvrzz/Repositorio-de-estudos-pessoais-Entra21">Entra21 - Repositório de estudos pessoais</a>
+      <a href="https://github.com/Alvrzz/Datapark">📊 Projeto - DataPark</a><br>
+      <a href="https://github.com/Alvrzz/Analise-da-Perfomance-de-Estudantes">📈 Analise - performance de estudantes</a><br>
+      <a href="https://github.com/Alvrzz/Reconhecimento-facial-com-python">🤖 Python - Reconhecimento Facial</a><br>
+      <a href="https://github.com/Alvrzz/Primeiro-projeto-de-Automacao-Web-e-webscraping-com-Python">🔧 Selenium Automação Web e Webscraping com Python</a><br>
+      <a href="https://github.com/Alvrzz/Repositorio-de-estudos-pessoais-Entra21">📚 Entra21 - Repositório de estudos pessoais</a>
    </p>
 </div>
 
 ##
 
 <div align="left">
-   <h3>Sobre mim:</h3>
+   <h3>🔎 Sobre mim:</h3>
    <ul>
-      <li>Certificado pelo Google Career Certificates e Proway.</li>
-      <li>Sou muito curioso e estou constantemente buscando conhecimento em tecnologia e informação.</li>
-      <li>Tenho facilidade para aprender e assimilar novos conceitos, gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes.</li>
-      <li>Apaixonado por explorar o mundo dos dados de uma forma justa e sem viés. :heavy_check_mark:</li>
+      <li>📜 Engenheiro de Dados certificado pelo Google Career Certificates e Proway.</li>
+      <li>🧐 Sou muito curioso e estou constantemente buscando conhecimento em tecnologia e informação.</li>
+      <li>💡 Tenho facilidade para aprender e assimilar novos conceitos, gosto de gerar novas ideias e desenvolver soluções viáveis para problemas amplamente relevantes.</li>
+      <li>📊 Apaixonado por explorar o mundo dos dados de uma forma justa e sem viés. ✔️</li>
    </ul>
 </div> 
 
